@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{364:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.Component=void 0;var t,u=(t=o(2))&&t.__esModule?t:{default:t};n.Component=function(){return u.default.createElement("h1",null,"Payment Page")}}}]);
